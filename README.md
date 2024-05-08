@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-- 🌱 I’m currently learning Cloud Computing with AWS and Azure
+- 🌱 I’m currently learning Cloud & DevOps Engineering with AWS and Azure
 - 👯 I’m looking to collaborate on any cloud projects
 - 📧 zwelakhespha@gmail.com
 - 🔗 https://medium.com/me/stories/public
