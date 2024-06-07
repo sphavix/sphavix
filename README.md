@@ -5,6 +5,15 @@
 - 📧 zwelakhespha@gmail.com
 - 🔗 https://medium.com/me/stories/public
 
+#### Tech Stack that I am currently improving on:
+ - .NET Core
+ - Java
+ - JavaScript, TypeScript
+ - AWS Services
+ - Azure DevOps
+ - Kubernetes
+ - IaC (Terraform, AWS CDK)
+
 <!-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
