@@ -5,7 +5,7 @@
 - 📧 zwelakhespha@gmail.com
 - 🔗 https://medium.com/me/stories/public
 
-#### Tech Stack that I am currently improving on:
+#### Tech Stack that I am currently improving and learning:
  - .NET Core
  - Java
  - JavaScript, TypeScript
