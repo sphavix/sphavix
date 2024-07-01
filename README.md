@@ -6,16 +6,10 @@
 - 🔗 https://medium.com/me/stories/public
 
 ### GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sphavix)](https://github.com/sphavix/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sphavix&show_icons=true)](https://github.com/sphavix/github-readme-stats&show_icons=true)
 
 #### Tech Stack that I am currently improving and learning:
- - .NET Core
- - Java
- - JavaScript, TypeScript
- - AWS Services
- - Azure DevOps
- - Kubernetes
- - IaC (Terraform, AWS CDK)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sphavix&layout=compact)](https://github.com/sphavix/github-readme-stats&layout=compact)
 
 <!-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
