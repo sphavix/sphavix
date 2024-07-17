@@ -1,7 +1,7 @@
 ## Hi 👋, It's Spha here.
 
-- 🌱 I’m currently learning Cloud & DevOps Engineering with AWS and Azure and improving my programming skills in .NET Core, Java, and JavaScript.
-- 👯 I’m looking to collaborate on any projects.
+- 🌱 I’m learning Cloud & DevOps Engineering with AWS and Azure and improving my programming skills in .NET Core, Java, and JavaScript.
+- 👯 I’m currently working on Gigs, Travel Itinerary, and eShopping Microservices in DOTNET. 
 - 📧 zwelakhespha@gmail.com
 - 🔗 https://medium.com/me/stories/public
 
