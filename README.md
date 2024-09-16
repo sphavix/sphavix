@@ -1,7 +1,7 @@
 ## Hi 👋, It's Spha here.
 
 - 🌱 I’m learning Cloud & DevOps Engineering with AWS and Azure and improving my programming skills in .NET Core, Java, React, and TypeScript.
-- 👯 I’m currently working on Gigs, Travel Itinerary, and eShopping Microservices in DOTNET. 
+- 👯 I’m currently working on multiple projects and following different approaches to writing clean code. 
 - 📧 zwelakhespha@gmail.com
 - 🔗 https://medium.com/me/stories/public
 
