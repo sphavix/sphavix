@@ -1,7 +1,8 @@
 ## Hi 👋, It's Spha here.
 
-- 🌱 I’m learning Cloud DevOps Engineering with AWS and Azure and improving my Software Development skills in .NET Core, Java, React, Angular, and TypeScript.
-- 👯 I’m currently working on multiple projects and following different approaches to writing clean code. 
+- 🌱 I’m learning Cloud DevOps Engineering with AWS and Azure.
+- 💬 Currently improving my Software Development skills in .NET Core, Java, React, Angular, and TypeScript.
+- 🤔 I’m currently working on multiple projects and following different approaches to writing clean code. 
 - 📧 zwelakhespha@gmail.com
 - 🔗 https://medium.com/me/stories/public
 
@@ -15,5 +16,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - - 🤔 I’m looking for help with ...
-  - - 💬 Ask me about ...
+  - - 👯 💬 Ask me about ...
 -->
